@@ -1,4 +1,4 @@
-package com.tempproject.newarchitecture.components;
+package com.pontodigitallbstudio.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
